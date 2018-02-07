@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Dangs.
+ *
+ * @category  Dangs
+ * @package   Dangs_Preventtocart
+ * @author    dangs.work@gmail.com
+ * @copyright Copyright (c) Dangs
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
+   <module name="Dangs_Preventtocart" setup_version="1.0.0" schema_version="1.0.0"/>
+</config>
