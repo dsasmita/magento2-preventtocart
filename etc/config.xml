@@ -11,5 +11,10 @@
                 <wording_preventtocart>login first to add to cart</wording_preventtocart>
             </general>
         </dangs_preventtocart>
+        <dangs_preventtocart>
+            <general>
+                <url_redirect>/customer/account/login/</url_redirect>
+            </general>
+        </dangs_preventtocart>
     </default>
 </config>

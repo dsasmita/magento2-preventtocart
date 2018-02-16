@@ -33,6 +33,13 @@
                     </depends>
                     <comment>Wording failed add to cart</comment>
                 </field>
+                <field id="url_redirect" translate="label comment" sortOrder="2" type="text" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>URL redirect</label>
+                    <depends>
+                        <field id="enabled">1</field>
+                    </depends>
+                    <comment>URL landing redirect</comment>
+                </field>
             </group>
         </section>
     </system>
